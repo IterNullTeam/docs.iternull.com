@@ -2,7 +2,7 @@ body {
 	padding-top: 50px;
 }
 footer {
-	padding: 30px 0;
+	padding-bottom: 30px;
 }
 body,button, input, select, textarea,h1 ,h2, h3, h4, h5, h6 {
 	font-family: Microsoft YaHei, Tahoma, Helvetica, Arial, "\5b8b\4f53", sans-serif;
